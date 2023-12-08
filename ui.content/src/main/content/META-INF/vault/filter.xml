@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aem_amp_poc" mode="merge"/>
+    <filter root="/content/aem_amp_poc" mode="merge"/>
+    <filter root="/content/dam/aem_amp_poc" mode="merge"/>
+    <filter root="/content/experience-fragments/aem_amp_poc" mode="merge"/>
+</workspaceFilter>
